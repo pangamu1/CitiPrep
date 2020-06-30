@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringAppln1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prithvi
+Implementation-Vendor-Id: JavaSpringBootTut
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/SpringApplic
+ ation1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
